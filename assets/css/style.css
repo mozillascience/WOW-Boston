@@ -95,12 +95,16 @@ article {
 .logo {
   position: relative;
   left: -12px;
-  width: 175px;
-  margin-bottom: 10px;
+  height: 55px;
+  margin: 0 10px 10px 0;
+  float:left;
 }
 .logo a:hover {
   background: none;
   opacity: .8;
+}
+.logo img {
+  height:55px;
 }
 .example {
   display: flex;
