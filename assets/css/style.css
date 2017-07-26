@@ -95,7 +95,7 @@ article {
 .logo {
   position: relative;
   left: -12px;
-  height: 55px;
+  height: 70px;
   margin: 0 10px 10px 0;
   float:left;
 }
@@ -104,7 +104,7 @@ article {
   opacity: .8;
 }
 .logo img {
-  height:55px;
+  height:70px;
 }
 .example {
   display: flex;
